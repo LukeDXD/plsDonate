@@ -4,7 +4,7 @@ while wait(1) do
 
 for i, v in pairs(textTable) do
 
-wait(1.0)
+wait(1.5)
 
 local args = {
     [1] = v,
