@@ -1,7 +1,7 @@
-
+While Toggle do
 local textTable = {"👪______", "👪_____🚅", "👪____🚅_", "👪___🚅__", "👪__🚅___", "👪_🚅____", "👪🚅_____", "💥______", "You didn't save the family"}
 
-While Toggle do
+
 while wait(1) do
 
 for i, v in pairs(textTable) do
