@@ -1,4 +1,4 @@
-While Toggle do
+if getgenv().AutoFarm Then
 local textTable = {"👪______", "👪_____🚅", "👪____🚅_", "👪___🚅__", "👪__🚅___", "👪_🚅____", "👪🚅_____", "💥______", "You didn't save the family"}
 
 
