@@ -17,4 +17,4 @@ game:GetService("ReplicatedStorage").Events.EditBooth:FireServer(unpack(args))
 
 end
     end
-
+end
