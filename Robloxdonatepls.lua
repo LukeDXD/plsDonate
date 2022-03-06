@@ -1,5 +1,4 @@
-if getgenv().AutoFarm then
-                pcall(function()
+
 local textTable = {"👪______", "👪_____🚅", "👪____🚅_", "👪___🚅__", "👪__🚅___", "👪_🚅____", "👪🚅_____", "💥______", "You didn't save the family"}
 
 
@@ -18,5 +17,4 @@ game:GetService("ReplicatedStorage").Events.EditBooth:FireServer(unpack(args))
 
 end
     end
-    end)
 
